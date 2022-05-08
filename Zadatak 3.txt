@@ -1,0 +1,8 @@
+double tempFarenheint=86;
+var Celzijus=(tempFarenheint-32)/1.8;
+
+void main() {
+  print("$tempFarenheint F=$Celzijus C");
+ 
+    
+}
