@@ -1,0 +1,2 @@
+git config --global user.name "Mato Mamuzić"
+git config --global user.email matoo.mamuzic@gmail.com
